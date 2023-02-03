@@ -16,7 +16,6 @@ public class MultiplicationTableTwo {
             System.out.printf("%d X %d = %d%n", a, i, sum);
         }
 
-
         if (a > 10 || b > 10) {
             System.out.printf("%d X %d = %d%n", a, b, sum);
         }
